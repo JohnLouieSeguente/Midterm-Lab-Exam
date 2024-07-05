@@ -7,6 +7,7 @@ class Rectangle:
  return self.width * self.height
 rectangle = Rectangle(3, 4)
 print(f"Area of the rectangle: {rectangle.calculate_area()}")
+<<<<<<< HEAD
 
 import math
 class Circle:
@@ -22,3 +23,5 @@ circle = Circle(5)
 print(f"Area of the circle: {circle.calculate_area()}")
 print(f"Circumference of the circle:
 {circle.calculate_circumference()}")
+=======
+>>>>>>> feature-update
